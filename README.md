@@ -17,10 +17,9 @@ All professors are included in professor list except for:
 - M. Kulkarni
 - S. Lichter
 - M. Werwath
-
 whose articles in Google Scholar do not link to their pages
 
-After running the script in google_scholar_panorama.py, new results since the last check is in new_add_result, which can be added to the newsletter
+After running the script in google_scholar_panorama.py, new results since the last check is in new_add_result, which can then be added to the newsletter.
 
 ## License
 
