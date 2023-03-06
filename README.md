@@ -11,12 +11,12 @@ pip install scholarly
 ## Notes
 
 All professors are included in professor list except for:
-P. Daniels
-G. Holderfield
-B. Johnson
-M. Kulkarni
-S. Lichter
-M. Werwath
+- P. Daniels
+- G. Holderfield
+- B. Johnson
+- M. Kulkarni
+- S. Lichter
+- M. Werwath
 
 whose articles in Google Scholar do not link to their pages
 
