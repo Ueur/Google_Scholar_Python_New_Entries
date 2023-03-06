@@ -1,3 +1,10 @@
+# Google Scholar Python to Check New Entries
+
+This was created in the spring of 2020 for the Northwestern University Chemical Engineering newsletter, in order to obtain newly published articles every week from a list of professors. 
+
+
+
+
 must pip install scholarly
 
 all professors included in professor list except for:
